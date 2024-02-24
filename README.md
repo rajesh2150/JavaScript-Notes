@@ -37,7 +37,9 @@
 	-- Combination of Function with its lexical environment.
 6.Async and Await
 	-- async  and await are keywords
+ 
 7.CallBack
+
 	--A callback function is a function passed into another function as an argument, which is then invoked inside 	the outer function to complete some kind of routine or action.
 
 8.currying and hosting
