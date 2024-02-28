@@ -1,5 +1,9 @@
 //storage types
-//sessionStorage(key,value) remove/loose all data after refresh/close tab
+//sessionStorage.setItem(key,value) remove/loose all data after refresh/close tab
+//sessionStorage.getItem(key) gets data
+//sessionStorage.removeItem(key) remove particular key data
+//session.clear() removes all data
+
 
 sessionStorage.setItem("name","Ravi") // for set data to sessionStorage 
 
